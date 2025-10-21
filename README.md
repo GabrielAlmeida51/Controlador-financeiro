@@ -39,5 +39,11 @@ lib/          # Configurações
 services/     # Serviços de API
 ```
 
+<img width="351" height="587" alt="image" src="https://github.com/user-attachments/assets/2b767836-c925-4edf-859a-231c7c630201" />
+<img width="355" height="499" alt="image" src="https://github.com/user-attachments/assets/9b84d76c-4cc6-4928-9cce-a777fcfedef8" />
+<img width="357" height="575" alt="image" src="https://github.com/user-attachments/assets/81f05828-6167-48af-86d0-55858a21f745" />
 
-imagem_2025-10-21_135300474.png
+
+
+
+
