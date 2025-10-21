@@ -1,3 +1,5 @@
+#Gabriel Augusto de Almeida
+
 # Financias
 
 App de controle financeiro pessoal desenvolvido com React Native e Supabase.
@@ -36,3 +38,6 @@ contexts/     # Contextos React
 lib/          # Configurações
 services/     # Serviços de API
 ```
+
+
+imagem_2025-10-21_135300474.png
